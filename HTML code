@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Syed Ali Abbas-Portfolio</title>
+    <link rel="icon" href="icon.png" />
+    <link rel="stylesheet" href="Styling.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+  </head>
+  <body>
+    <ul>
+      <li>
+        <img class="none" style="width: 25px" src="menu.png" alt="" />
+      </li>
+      <li>Skills</li>
+      <li>Education</li>
+      <li>Experience</li>
+      <li>Certifications</li>
+    </ul>
+    <div class="styling" style="margin-top: 25px">
+      <h1 style="display: block">About Me</h1>
+      <img src="Mypic.jpg" alt="Mypic" />
+      <p style="display: block">
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque
+        excepturi similique voluptatum porro cupiditate aliquam magnam pariatur
+        maxime culpa dolores libero quos quod provident optio quas eos ea error
+        aliquid velit, distinctio voluptatem natus cum! Voluptatum culpa,
+        tempora enim autem eveniet tenetur alias veniam sunt impedit nobis
+        reprehenderit beatae obcaecati! Lorem ipsum dolor, sit amet consectetur
+        adipisicing elit. Dignissimos quia libero iure vel, adipisci reiciendis
+        tenetur obcaecati quas aliquid fugiat, sed ipsa blanditiis. Eum,
+        voluptate ex repellat asperiores veniam fugiat? Lorem ipsum dolor sit
+        amet consectetur adipisicing elit. Commodi nulla. Lorem ipsum dolor sit
+        amet, consectetur adipisicing elit. Tempora maiores et id hic, tempore,
+        cum veritatis fugiat magni praesentium reiciendis natus perspiciatis
+        delectus vel voluptates quasi assumenda dolorum ab quisquam? Lorem ipsum
+        dolor sit amet consectetur adipisicing elit. Quasi possimus enim facilis
+        error ipsam distinctio corporis totam temporibus nulla. Sequi corporis
+        in molestias vero, dignissimos cumque vitae reiciendis impedit iste!
+        Nulla aspernatur optio obcaecati cumque commodi, pariatur id ipsum atque
+        sed repellat voluptatem tenetur nobis illum! Quia, ullam. Aut,
+        voluptatem.
+      </p>
+    </div>
+    <div class="styling" style="margin-top: 25px">
+      <h1>Certifications</h1>
+      <img src="certifications'.png" alt="" />
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, dicta
+        voluptatem expedita rerum nesciunt ipsam excepturi architecto quidem
+        voluptates ea ut culpa illo temporibus, fugit atque aspernatur? Iste
+        veritatis rerum quas rem necessitatibus sed alias commodi ipsum iusto
+        maiores, ipsa nihil distinctio quis, hic officia recusandae voluptatem.
+        Voluptas blanditiis modi ab necessitatibus architecto dicta neque rem
+        vel voluptatibus, reiciendis magni. Delectus aliquam voluptate sit
+        veritatis voluptas, fuga iusto corporis vitae, eum libero architecto
+        maiores animi totam suscipit numquam, quos quia? Molestias beatae
+        sapiente fuga sed tenetur quisquam expedita aut impedit reiciendis
+        repudiandae, officia facilis repellat dolorem est culpa iusto quod!
+      </p>
+    </div>
+
+    <div class="styling" style="margin-top: 25px">
+      <h1>Experience</h1>
+      <img src="experience.png" alt="" />
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, dicta
+        voluptatem expedita rerum nesciunt ipsam excepturi architecto quidem
+        voluptates ea ut culpa illo temporibus, fugit atque aspernatur? Iste
+        veritatis rerum quas rem necessitatibus sed alias commodi ipsum iusto
+        maiores, ipsa nihil distinctio quis, hic officia recusandae voluptatem.
+        Voluptas blanditiis modi ab necessitatibus architecto dicta neque rem
+        vel voluptatibus, reiciendis magni. Delectus aliquam voluptate sit
+        veritatis voluptas, fuga iusto corporis vitae, eum libero architecto
+        maiores animi totam suscipit numquam, quos quia? Molestias beatae
+        sapiente fuga sed tenetur quisquam expedita aut impedit reiciendis
+        repudiandae, officia facilis repellat dolorem est culpa iusto quod!
+      </p>
+    </div>
+    <div class="styling" style="margin-top: 25px">
+      <h1>Education</h1>
+      <img src="education.jpg" alt="" />
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, dicta
+        voluptatem expedita rerum nesciunt ipsam excepturi architecto quidem
+        voluptates ea ut culpa illo temporibus, fugit atque aspernatur? Iste
+        veritatis rerum quas rem necessitatibus sed alias commodi ipsum iusto
+        maiores, ipsa nihil distinctio quis, hic officia recusandae voluptatem.
+        Voluptas blanditiis modi ab necessitatibus architecto dicta neque rem
+        vel voluptatibus, reiciendis magni. Delectus aliquam voluptate sit
+        veritatis voluptas, fuga iusto corporis vitae, eum libero architecto
+        maiores animi totam suscipit numquam, quos quia? Molestias beatae
+        sapiente fuga sed tenetur quisquam expedita aut impedit reiciendis
+        repudiandae, officia facilis repellat dolorem est culpa iusto quod!
+      </p>
+    </div>
+
+    <ul style="margin-top: 25px; padding: 10px; width: 500px">
+      <!-- Add font awesome icons -->
+      <div style="margin: auto; width: 400px">
+        <a href="https://www.facebook.com/" class="fa fa-facebook"></a>
+        <a href="#" class="fa fa-twitter"></a>
+        <a href="#" class="fa fa-linkedin"></a>
+        <a href="#" class="fa fa-instagram"></a>
+      </div>
+    </ul>
+  </body>
+</html>
